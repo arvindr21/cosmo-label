@@ -1,0 +1,22 @@
+<link rel="import" href="../polymer/polymer.html">
+<link rel="import" href="../cosmo-core/cosmo-core.html">
+
+<!--
+This component is used to show different presentation labels
+
+##### Example
+
+    <cosmo-label></cosmo-label>
+
+@element cosmo-label
+@status alpha
+@homepage http://arvindr21.github.io/cosmo-label
+-->
+<polymer-element name="cosmo-label" attributes="type" noscript>
+    <template>
+        <link rel="stylesheet" href="../cosmo-core/cosmo-core.min.css" />
+        <div class="label label-{{type}}">
+            <content></content>
+        </div>
+    </template>
+</polymer-element>
