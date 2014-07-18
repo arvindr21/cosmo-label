@@ -5,6 +5,6 @@
   "main": "cosmo-label.html",
   "dependencies": {
     "polymer": "Polymer/polymer#~0.3.1",
-    "cosmo-core" : "cosmo-core#0.0.1"
+    "cosmo-core" : "cosmo-core"
   }
 }
