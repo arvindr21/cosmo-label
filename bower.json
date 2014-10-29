@@ -1,7 +1,7 @@
 {
   "name": "cosmo-label",
   "version": "0.0.1",
-  "keywords": "bootstrap, metro ui, cosmo, cosmo-label, web-components",
+  "keywords": ["bootstrap", "metro ui", "cosmo", "cosmo-label", "web-components"],
   "main": "cosmo-label.html",
   "dependencies": {
     "polymer": "Polymer/polymer#~0.3.1",
